@@ -22,11 +22,9 @@
 
 ### about
 
-I work close to the metal. Most of what I write ends up somewhere below the level where most software is comfortable: boot firmware, kernel drivers, hypervisor entry code, and the reversing that comes before any of it.
+Specializing in low-level systems architecture, offensive exploit research, and hardware virtualization. My work focuses on execution beneath conventional OS telemetry: boot firmware, kernel dispatch routines, and VMX root virtualization.
 
-I have been at it since 2018. The languages I actually use are `c`, `c++`, `c#`, `asm`, `python`, `bash`. The platforms I target are `windows`, `linux`, and the privilege level I care about is **ring 0 and below**.
-
-This site is the written part of that work. Anything I post is either something I have taken apart properly or something I got wrong and corrected.
+Active in offensive security and binary analysis since 2018. Primary toolchain consists of `c`, `c++`, `c#`, `x86_64 asm`, `python`, and `bash` across **Windows** and **Linux**, operating exclusively at **ring 0 and below**.
 
 ---
 
@@ -38,17 +36,12 @@ reverse engineering  /  assembly  /  rootkits  /  bootkits (uefi)  /  hypervisor
 
 ---
 
-### articles
+### articles & research
 
-<a href="https://3eed.page.gd/article.php?slug=2026-10-10-what-i-have-built">
-  <img src="./og-preview.png" width="100%" alt="What I have built so far" />
-</a>
-
-<br/><br/>
-
-<a href="https://3eed.page.gd/article.php?slug=2026-10-12-reversing-vanguard-audiodg-injection">
-  <img src="./og-vanguard.png" width="100%" alt="2023, reversing vgk.sys internals and the audiodg manual mapper" />
-</a>
+- [What I have built so far](https://3eed.page.gd/article.php?slug=2026-10-10-what-i-have-built)  
+  *Where it started, what actually mattered, and the parts I got wrong.*
+- [2023, reversing vgk.sys internals and the audiodg manual mapper](https://3eed.page.gd/article.php?slug=2026-10-12-reversing-vanguard-audiodg-injection)  
+  *Analysis of vgk.sys dispatch routines and audiodg injection techniques.*
 
 ---
 
