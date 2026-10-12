@@ -14,6 +14,8 @@
   <a href="https://discord.com/users/1330197919797743617" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
   &nbsp;
   <a href="https://bsky.app/profile/riotemployee.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HalpDmaGetIommuInterface&style=for-the-badge&color=FF3B30&label=VIEWS" alt="profile views" />
 </p>
 
 </div>
