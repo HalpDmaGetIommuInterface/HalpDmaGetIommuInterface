@@ -1,0 +1,140 @@
+<svg fill="none" viewBox="0 0 800 370" width="800" height="370" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .card {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Cascadia Code", "Fira Code", monospace;
+          background-color: #050505;
+          border: 1px solid #1f1f23;
+          border-radius: 8px;
+          padding: 24px;
+          color: #e6e6e6;
+          box-sizing: border-box;
+          height: 350px;
+        }
+        .header {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          border-bottom: 1px solid #1a1a1e;
+          padding-bottom: 14px;
+          margin-bottom: 18px;
+        }
+        .title {
+          font-size: 14px;
+          text-transform: uppercase;
+          letter-spacing: 0.1em;
+          color: #888888;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .pulse {
+          width: 8px;
+          height: 8px;
+          background-color: #00ff66;
+          border-radius: 50%;
+          box-shadow: 0 0 8px #00ff66;
+          animation: pulse-dot 2s infinite ease-in-out;
+        }
+        @keyframes pulse-dot {
+          0%, 100% { opacity: 0.3; transform: scale(0.9); }
+          50% { opacity: 1; transform: scale(1.1); }
+        }
+        .status-badge {
+          font-size: 11px;
+          background: #111116;
+          border: 1px solid #26262d;
+          padding: 3px 8px;
+          border-radius: 4px;
+          color: #a0a0a0;
+          font-family: monospace;
+        }
+        .grid {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 12px 28px;
+        }
+        .item {
+          display: flex;
+          justify-content: space-between;
+          border-bottom: 1px dashed #16161a;
+          padding-bottom: 6px;
+          font-size: 13px;
+        }
+        .label {
+          color: #666666;
+          font-family: monospace;
+        }
+        .val {
+          color: #f0f0f0;
+          font-weight: 500;
+          font-family: monospace;
+        }
+        .highlight {
+          color: #ff3b30;
+          font-weight: 600;
+        }
+        .works-box {
+          margin-top: 18px;
+          padding-top: 14px;
+          border-top: 1px solid #1a1a1e;
+        }
+        .works-label {
+          font-size: 11px;
+          color: #666666;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+          margin-bottom: 8px;
+          font-family: monospace;
+        }
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+        }
+        .tag {
+          font-size: 11.5px;
+          background: #0d0d11;
+          border: 1px solid #22222a;
+          color: #c0c0c0;
+          padding: 3px 10px;
+          border-radius: 4px;
+          font-family: monospace;
+        }
+      </style>
+      <div class="card">
+        <div class="header">
+          <div class="title">
+            <div class="pulse"></div>
+            SYSTEM OPERATOR // DRAGON
+          </div>
+          <div class="status-badge">RING 0 // KERNELMODE &amp; BELOW</div>
+        </div>
+        <div class="grid">
+          <div class="item"><span class="label">HANDLE</span><span class="val">dragon</span></div>
+          <div class="item"><span class="label">SINCE</span><span class="val">2018</span></div>
+          <div class="item"><span class="label">AGE</span><span class="val">24</span></div>
+          <div class="item"><span class="label">STATUS</span><span class="val" style="color: #00ff66;">ACTIVE // WORKING</span></div>
+          <div class="item"><span class="label">PRIVILEGE</span><span class="val highlight">RING 0 AND BELOW</span></div>
+          <div class="item"><span class="label">TARGETS</span><span class="val">WINDOWS, LINUX</span></div>
+          <div class="item"><span class="label">CORE LANGS</span><span class="val">C, C++, C#, ASM, PY, BASH</span></div>
+          <div class="item"><span class="label">SITE STACK</span><span class="val">PHP, JS, CSS</span></div>
+          <div class="item"><span class="label">LOCATION</span><span class="val">UNKNOWN</span></div>
+          <div class="item"><span class="label">VECTORS</span><span class="val">DXE / VMX ROOT / EPT</span></div>
+        </div>
+        <div class="works-box">
+          <div class="works-label">ACTIVE DISCIPLINES</div>
+          <div class="tags">
+            <span class="tag">reverse engineering</span>
+            <span class="tag">assembly</span>
+            <span class="tag">rootkits</span>
+            <span class="tag">bootkits (uefi)</span>
+            <span class="tag">hypervisors</span>
+            <span class="tag">game cheats</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

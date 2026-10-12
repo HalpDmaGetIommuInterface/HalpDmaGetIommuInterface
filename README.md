@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" />
 </a>
 
+<br/><br/>
+
+<img src="./card.svg" width="100%" alt="dragon telemetry" />
+
 </div>
 
 ---
@@ -29,30 +33,6 @@
 I work close to the metal. Most of what I write ends up somewhere below the level where most software is comfortable: boot firmware, kernel drivers, hypervisor entry code, and the reversing that comes before any of it.
 
 I have been at it since 2018. The languages I actually use are `c`, `c++`, `c#`, `asm`, `python`, `bash`. The platforms I target are `windows`, `linux`, and the privilege level I care about is **ring 0 and below**.
-
----
-
-### facts
-
-```yaml
-handle    : dragon
-since     : 2018
-age       : 24
-status    : working
-access    : ring 0 and below
-targets   : windows, linux
-langs     : c, c++, c#, asm, python, bash
-this site : php, js, css
-location  : unknown
-```
-
----
-
-### works in
-
-```
-reverse engineering  /  assembly  /  rootkits  /  bootkits (uefi)  /  hypervisors  /  game cheats
-```
 
 ---
 
