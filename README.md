@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./dragon.svg" width="90" height="90" alt="dragon logo" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:FF3B30,100:000000&height=200&section=header&text=dragon&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=RING%200%20AND%20BELOW%20//%20FROM%20UNDER%20THE%20HYPERVISOR&descSize=14&descAlignY=62&descColor=e0e0e0" width="100%" alt="dragon banner" />
+<img src="./banner.svg" width="100%" alt="dragon crest" />
 
 <br/>
 
