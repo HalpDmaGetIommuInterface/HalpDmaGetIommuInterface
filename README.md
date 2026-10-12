@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="dragon glitch header" />
+<img src="https://raw.githubusercontent.com/hholdaccs-cell/hholdaccs-cell/main/header.svg" width="100%" alt="dragon" />
 
 <br/>
 
-<a href="https://3eed.page.gd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E6E6E6&center=true&vCenter=true&width=750&lines=i+write+rootkits%2C+bootkits+and+hypervisors.;from+under+the+hypervisor%2C+the+game+is+memory+and+nothing+else.;malware+analysis+%2F+vulnerability+research+%2F+offensive+security;reversing+binaries+close+to+the+metal+since+2018." alt="console typing" /></a>
+<a href="https://3eed.page.gd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF3B30&center=true&vCenter=true&width=750&lines=i+write+rootkits%2C+bootkits+and+hypervisors.;from+under+the+hypervisor%2C+the+game+is+memory+and+nothing+else.;malware+analysis+%2F+vulnerability+research+%2F+offensive+security;low-level+systems+architecture+%E2%80%A2+ring+0+and+below." alt="console typing" /></a>
 
 <br/><br/>
 
