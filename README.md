@@ -6,13 +6,19 @@
 
 <a href="https://3eed.page.gd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=E6E6E6&center=true&vCenter=true&width=600&lines=i+write+rootkits%2C+bootkits+and+hypervisors.;ring+0+and+below+%E2%80%A2+from+under+the+hypervisor.;malware+analysis+%2F+vulnerability+research;offensive+security+%2F+exploit+development" alt="terminal typing" /></a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <a href="https://3eed.page.gd"><tt>3eed.page.gd</tt></a> &nbsp;•&nbsp;
-  <a href="https://discord.com/users/1330197919797743617"><tt>discord</tt></a> &nbsp;•&nbsp;
-  <a href="https://bsky.app/profile/riotemployee.bsky.social"><tt>bluesky</tt></a>
-</p>
+<a href="https://3eed.page.gd" target="_blank">
+  <img src="https://img.shields.io/badge/3eed.page.gd-0A0A0A?style=for-the-badge&logo=torbrowser&logoColor=FFFFFF" alt="3eed.page.gd" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/1330197919797743617" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
+</a>
+&nbsp;
+<a href="https://bsky.app/profile/riotemployee.bsky.social" target="_blank">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" />
+</a>
 
 </div>
 
