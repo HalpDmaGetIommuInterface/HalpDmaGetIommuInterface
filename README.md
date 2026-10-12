@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="./dragon.svg" width="90" height="90" alt="dragon" />
+<img src="./header.svg" width="100%" alt="dragon glitch header" />
 
-# dragon
+<br/>
+
+<a href="https://3eed.page.gd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E6E6E6&center=true&vCenter=true&width=750&lines=i+write+rootkits%2C+bootkits+and+hypervisors.;from+under+the+hypervisor%2C+the+game+is+memory+and+nothing+else.;malware+analysis+%2F+vulnerability+research+%2F+offensive+security;reversing+binaries+close+to+the+metal+since+2018." alt="console typing" /></a>
+
+<br/><br/>
 
 <p>
-  <a href="https://3eed.page.gd"><img src="https://img.shields.io/badge/3eed.page.gd-0A0A0A?style=for-the-badge&logo=torbrowser&logoColor=FFFFFF" alt="3eed.page.gd" /></a>
+  <a href="https://3eed.page.gd" target="_blank"><img src="https://img.shields.io/badge/3eed.page.gd-0A0A0A?style=for-the-badge&logo=torbrowser&logoColor=FFFFFF" alt="3eed.page.gd" /></a>
   &nbsp;
-  <a href="https://discord.com/users/1330197919797743617"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
+  <a href="https://discord.com/users/1330197919797743617" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
   &nbsp;
-  <a href="https://bsky.app/profile/riotemployee.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" /></a>
+  <a href="https://bsky.app/profile/riotemployee.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" /></a>
 </p>
 
 </div>

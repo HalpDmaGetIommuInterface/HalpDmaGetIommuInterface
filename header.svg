@@ -1,0 +1,131 @@
+<svg fill="none" viewBox="0 0 900 240" width="900" height="240" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes glitch-anim {
+          0%, 100% {
+            clip-path: inset(0 0 0 0);
+            transform: translate(0);
+          }
+          20% {
+            clip-path: inset(20% 0 30% 0);
+            transform: translate(-3px, 1px);
+          }
+          40% {
+            clip-path: inset(60% 0 10% 0);
+            transform: translate(3px, -2px);
+          }
+          60% {
+            clip-path: inset(10% 0 70% 0);
+            transform: translate(-2px, 2px);
+          }
+          80% {
+            clip-path: inset(40% 0 40% 0);
+            transform: translate(2px, -1px);
+          }
+        }
+
+        @keyframes scanline {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(1000%); }
+        }
+
+        .container {
+          background-color: #000000;
+          height: 220px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+          border-bottom: 1px solid #1a1a1a;
+          position: relative;
+          overflow: hidden;
+        }
+
+        .glitch-wrapper {
+          position: relative;
+          display: inline-block;
+        }
+
+        .hero-text {
+          font-size: 72px;
+          font-weight: 900;
+          letter-spacing: -0.06em;
+          color: #ffffff;
+          text-transform: lowercase;
+          position: relative;
+          margin: 0;
+          line-height: 1;
+        }
+
+        .hero-text::before,
+        .hero-text::after {
+          content: "dragon";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: #000000;
+        }
+
+        .hero-text::before {
+          color: #ff3b30;
+          z-index: -1;
+          animation: glitch-anim 2.5s infinite linear alternate-reverse;
+        }
+
+        .hero-text::after {
+          color: #00f0ff;
+          z-index: -2;
+          animation: glitch-anim 2.5s infinite linear alternate;
+        }
+
+        .sub-bar {
+          margin-top: 14px;
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          font-size: 13px;
+          color: #888888;
+          letter-spacing: 0.12em;
+          text-transform: uppercase;
+        }
+
+        .red-dot {
+          width: 6px;
+          height: 6px;
+          background: #ff3b30;
+          border-radius: 50%;
+          box-shadow: 0 0 8px #ff3b30;
+        }
+
+        .tag-strip {
+          margin-top: 10px;
+          font-size: 12px;
+          color: #555555;
+          letter-spacing: 0.05em;
+        }
+
+        .tag-strip span {
+          color: #888888;
+        }
+      </style>
+      <div class="container">
+        <div class="glitch-wrapper">
+          <h1 class="hero-text">dragon</h1>
+        </div>
+        <div class="sub-bar">
+          <div class="red-dot"></div>
+          <span>ring 0 and below</span>
+          <span style="color: #333333;">//</span>
+          <span>from under the hypervisor</span>
+        </div>
+        <div class="tag-strip">
+          <span>rootkits</span> &bull; <span>bootkits</span> &bull; <span>hypervisors</span> &bull; <span>vulnerability research</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
