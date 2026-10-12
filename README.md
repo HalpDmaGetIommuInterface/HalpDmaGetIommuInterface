@@ -34,23 +34,25 @@ I have been at it since 2018. The languages I actually use are `c`, `c++`, `c#`,
 
 ### facts
 
-| Key | Value |
-| :--- | :--- |
-| **handle** | `dragon` |
-| **since** | `2018` |
-| **age** | `24` |
-| **status** | `working` |
-| **access** | `ring 0 and below` |
-| **targets** | `windows`, `linux` |
-| **langs** | `c`, `c++`, `c#`, `asm`, `python`, `bash` |
-| **this site** | `php`, `js`, `css` |
-| **location** | `unknown` |
+```yaml
+handle    : dragon
+since     : 2018
+age       : 24
+status    : working
+access    : ring 0 and below
+targets   : windows, linux
+langs     : c, c++, c#, asm, python, bash
+this site : php, js, css
+location  : unknown
+```
 
 ---
 
 ### works in
 
-`reverse engineering` / `assembly` / `rootkits` / `bootkits (uefi)` / `hypervisors` / `game cheats`
+```
+reverse engineering  /  assembly  /  rootkits  /  bootkits (uefi)  /  hypervisors  /  game cheats
+```
 
 ---
 
