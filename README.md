@@ -14,8 +14,6 @@
   <a href="https://discord.com/users/1330197919797743617" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
   &nbsp;
   <a href="https://bsky.app/profile/riotemployee.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" /></a>
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HalpDmaGetIommuInterface&left_color=0a0a0a&right_color=ff3b30" alt="visitors" />
 </p>
 
 </div>
@@ -48,5 +46,13 @@ reverse engineering  /  assembly  /  rootkits  /  bootkits (uefi)  /  hypervisor
 ---
 
 <div align="center">
+
+<a href="https://github.com/HalpDmaGetIommuInterface">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HalpDmaGetIommuInterface.profile&title=TELEMETRY%20//%20PROFILE%20HITS&left_color=050505&right_color=ff3b30" alt="profile telemetry hits" />
+</a>
+
+<br/><br/>
+
 <sub>&copy; 2026 dragon &bull; <a href="https://3eed.page.gd">3eed.page.gd</a></sub>
+
 </div>
