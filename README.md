@@ -15,7 +15,7 @@
   &nbsp;
   <a href="https://bsky.app/profile/riotemployee.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF" alt="Bluesky" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HalpDmaGetIommuInterface&style=for-the-badge&color=FF3B30&label=VIEWS" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HalpDmaGetIommuInterface&left_color=0a0a0a&right_color=ff3b30" alt="visitors" />
 </p>
 
 </div>
