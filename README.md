@@ -4,6 +4,10 @@
 
 # dragon
 
+<a href="https://3eed.page.gd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=E6E6E6&center=true&vCenter=true&width=600&lines=i+write+rootkits%2C+bootkits+and+hypervisors.;ring+0+and+below+%E2%80%A2+from+under+the+hypervisor.;malware+analysis+%2F+vulnerability+research;offensive+security+%2F+exploit+development" alt="terminal typing" /></a>
+
+<br/>
+
 <p>
   <a href="https://3eed.page.gd"><tt>3eed.page.gd</tt></a> &nbsp;•&nbsp;
   <a href="https://discord.com/users/1330197919797743617"><tt>discord</tt></a> &nbsp;•&nbsp;
